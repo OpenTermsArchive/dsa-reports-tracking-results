@@ -1,0 +1,16 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-10-04T04:04:50.544Z",
+    "serviceName": "Pinterest",
+    "sourceDocuments": [
+      {
+        "id": "en-article-digital-services-act",
+        "fetch": "https://help.pinterest.com/en/article/digital-services-act",
+        "select": "#section-32212",
+        "mimeType": "text/html",
+        "snapshotId": "0f3812ac5ea60e518aa736c93680db4e9e652321"
+      }
+    ]
+  }
+}
