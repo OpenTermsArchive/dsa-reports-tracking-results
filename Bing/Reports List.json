@@ -1,0 +1,16 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-10-04T04:00:57.625Z",
+    "serviceName": "Bing",
+    "sourceDocuments": [
+      {
+        "id": "en-us-DigitalSafety-transparency-reports-jurisdictional-reports",
+        "fetch": "https://www.microsoft.com/en-us/DigitalSafety/transparency-reports/jurisdictional-reports",
+        "select": "main",
+        "mimeType": "text/html",
+        "snapshotId": "75840511912f8f1946af107357a5940a0e362442"
+      }
+    ]
+  }
+}
