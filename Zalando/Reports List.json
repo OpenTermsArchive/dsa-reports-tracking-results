@@ -1,0 +1,16 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-10-04T04:09:22.137Z",
+    "serviceName": "Zalando",
+    "sourceDocuments": [
+      {
+        "id": "en-investor-relations-corporate-governance-transparency-hub",
+        "fetch": "https://corporate.zalando.com/en/investor-relations/corporate-governance/transparency-hub",
+        "select": "[role=\"main\"]",
+        "mimeType": "text/html",
+        "snapshotId": "c030c8c168e274b951b22dcef58d943ac7ca11bf"
+      }
+    ]
+  }
+}
