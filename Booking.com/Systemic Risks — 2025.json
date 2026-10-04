@@ -1,0 +1,15 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-10-04T04:01:46.483Z",
+    "serviceName": "Booking.com",
+    "sourceDocuments": [
+      {
+        "id": "data-mobile-2025 - Systemic risk assessment and mitigation measures completion report",
+        "fetch": "https://q-xx.bstatic.com/data/mobile/2025%20-%20Systemic%20risk%20assessment%20and%20mitigation%20measures%20completion%20report.pdf",
+        "mimeType": "application/pdf",
+        "snapshotId": "05517b86f4ea95701678050777ccd6fb38236543"
+      }
+    ]
+  }
+}
