@@ -1,0 +1,15 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-10-04T04:07:16.347Z",
+    "serviceName": "Wikipedia",
+    "sourceDocuments": [
+      {
+        "id": "wikipedia-foundation-5-5a-Wikipedia_DSA_SRA_submission_cover_note_31Aug2023",
+        "fetch": "https://upload.wikimedia.org/wikipedia/foundation/5/5a/Wikipedia_DSA_SRA_submission_cover_note_31Aug2023.pdf",
+        "mimeType": "application/pdf",
+        "snapshotId": "eab098623387f27958632479ecf6a4bf488c12b3"
+      }
+    ]
+  }
+}
