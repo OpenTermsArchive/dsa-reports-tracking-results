@@ -1,0 +1,15 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-10-04T04:09:24.976Z",
+    "serviceName": "Zalando",
+    "sourceDocuments": [
+      {
+        "id": "sites-default-files-media-download-Zalando-SE_DSA_Risk-Report_2024",
+        "fetch": "https://corporate.zalando.com/sites/default/files/media-download/Zalando-SE_DSA_Risk-Report_2024.pdf",
+        "mimeType": "application/pdf",
+        "snapshotId": "ac0d63ab77ae8509730d7a7ab85d267469392bd3"
+      }
+    ]
+  }
+}
