@@ -1,0 +1,17 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-10-04T04:03:19.352Z",
+    "serviceName": "Google Search",
+    "sourceDocuments": [
+      {
+        "id": "",
+        "fetch": "https://transparencyreport.google.com/",
+        "select": "#report-155",
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "ffff189211110a78fc30f542354303319f40ee8e"
+      }
+    ]
+  }
+}
