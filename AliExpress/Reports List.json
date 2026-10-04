@@ -1,0 +1,17 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-10-04T04:00:08.772Z",
+    "serviceName": "AliExpress",
+    "sourceDocuments": [
+      {
+        "id": "p-transparencycenter-mitigationReport",
+        "fetch": "https://www.aliexpress.com/p/transparencycenter/mitigationReport.html",
+        "select": ".reports-container",
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "35232b66f4d4c0d6bbe482587bda6f0f91f0750a"
+      }
+    ]
+  }
+}
