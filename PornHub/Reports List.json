@@ -1,0 +1,17 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-10-04T04:04:57.962Z",
+    "serviceName": "PornHub",
+    "sourceDocuments": [
+      {
+        "id": "information-eu_dsa",
+        "fetch": "https://www.pornhub.com/information/eu_dsa",
+        "select": "#information_eu_dsa",
+        "remove": "#changeLanguageWrapper",
+        "mimeType": "text/html",
+        "snapshotId": "7850ed605d99aca27edab6ef6a409e7c01c40584"
+      }
+    ]
+  }
+}
