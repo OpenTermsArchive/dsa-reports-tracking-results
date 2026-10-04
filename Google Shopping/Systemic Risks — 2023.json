@@ -1,0 +1,15 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-10-04T04:04:03.646Z",
+    "serviceName": "Google Shopping",
+    "sourceDocuments": [
+      {
+        "id": "transparencyreport-report-downloads-dsa-risk-assessment_2023-8-28_2023-8-28_en_v1",
+        "fetch": "https://storage.googleapis.com/transparencyreport/report-downloads/dsa-risk-assessment_2023-8-28_2023-8-28_en_v1.pdf",
+        "mimeType": "application/pdf",
+        "snapshotId": "89a596f8049e5dd47ce7949fb856f9dd06b113a5"
+      }
+    ]
+  }
+}
