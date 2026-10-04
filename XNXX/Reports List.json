@@ -1,0 +1,16 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-10-04T04:08:18.645Z",
+    "serviceName": "XNXX",
+    "sourceDocuments": [
+      {
+        "id": "legal-mandatory-information",
+        "fetch": "https://info.xnxx.com/legal/mandatory-information",
+        "select": "#main",
+        "mimeType": "text/html",
+        "snapshotId": "09c6227bdc43443e04b3f6d65015772dd11877c2"
+      }
+    ]
+  }
+}
