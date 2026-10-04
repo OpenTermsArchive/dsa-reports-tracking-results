@@ -1,0 +1,15 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-10-04T04:06:10.609Z",
+    "serviceName": "Snapchat",
+    "sourceDocuments": [
+      {
+        "id": "kw9k15zxztrs-3XDdaeJtkDtu4psL9nFFQ6-6f84a8f12c471ff7c00f7d53360d55f0-FINAL__v1_-Redacted-_2024_DSA_Risk_Assessment",
+        "fetch": "https://images.ctfassets.net/kw9k15zxztrs/3XDdaeJtkDtu4psL9nFFQ6/6f84a8f12c471ff7c00f7d53360d55f0/FINAL__v1_-Redacted-_2024_DSA_Risk_Assessment.pdf",
+        "mimeType": "application/pdf",
+        "snapshotId": "57e2bd3555b81a2ba5669899f5daca2100639a44"
+      }
+    ]
+  }
+}
