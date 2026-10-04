@@ -1,0 +1,15 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-10-04T04:05:45.239Z",
+    "serviceName": "Snapchat",
+    "sourceDocuments": [
+      {
+        "id": "kw9k15zxztrs-55C3sV2gzevjT1ucl2xEvz-7c12ac42b6c8c19144c21b16524dbf0e-DSA_Risk_and_Mitigation_Assessment_Report_-_Snapchat_-_August_2023",
+        "fetch": "https://downloads.ctfassets.net/kw9k15zxztrs/55C3sV2gzevjT1ucl2xEvz/7c12ac42b6c8c19144c21b16524dbf0e/DSA_Risk_and_Mitigation_Assessment_Report_-_Snapchat_-_August_2023.pdf",
+        "mimeType": "application/pdf",
+        "snapshotId": "7448a483053f2232564ae5795cfec00a20039cf7"
+      }
+    ]
+  }
+}
