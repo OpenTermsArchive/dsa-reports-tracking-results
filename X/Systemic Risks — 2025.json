@@ -1,0 +1,15 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-10-04T04:08:18.067Z",
+    "serviceName": "X",
+    "sourceDocuments": [
+      {
+        "id": "content-dam-transparency-twitter-dsa-2025-x-dsa-sra-summary-report",
+        "fetch": "https://transparency.x.com/content/dam/transparency-twitter/dsa/2025-x-dsa-sra-summary-report.pdf",
+        "mimeType": "application/pdf",
+        "snapshotId": "a9333c330063fa662787bef9bc2a5bc801279c29"
+      }
+    ]
+  }
+}
