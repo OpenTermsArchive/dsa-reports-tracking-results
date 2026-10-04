@@ -1,0 +1,15 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-10-04T04:04:48.956Z",
+    "serviceName": "LinkedIn",
+    "sourceDocuments": [
+      {
+        "id": "content-dam-help-tns-legal-01-LinkedIn-DSA-2025-SRA-Report-August-2025",
+        "fetch": "https://content.linkedin.com/content/dam/help/tns/legal/01-LinkedIn-DSA-2025-SRA-Report-August-2025.pdf",
+        "mimeType": "application/pdf",
+        "snapshotId": "0736a749349aafda7ec2d90162e6888605e94a3d"
+      }
+    ]
+  }
+}
