@@ -1,0 +1,15 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-10-04T04:05:09.142Z",
+    "serviceName": "PornHub",
+    "sourceDocuments": [
+      {
+        "id": "static-misc-legal-Risk_Assessment_for_Pornhub_April_2026_1784563392",
+        "fetch": "https://ei.phncdn.com/static/misc/legal/Risk_Assessment_for_Pornhub_April_2026_1784563392.pdf",
+        "mimeType": "application/pdf",
+        "snapshotId": "e919527a315f0530cf6df1b8682d52ea86a41f46"
+      }
+    ]
+  }
+}
