@@ -1,0 +1,15 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-10-04T04:03:01.932Z",
+    "serviceName": "Google Play",
+    "sourceDocuments": [
+      {
+        "id": "transparencyreport-report-downloads-dsa-risk-assessment_2024-8-28_2024-8-28_en_v1",
+        "fetch": "https://storage.googleapis.com/transparencyreport/report-downloads/dsa-risk-assessment_2024-8-28_2024-8-28_en_v1.pdf",
+        "mimeType": "application/pdf",
+        "snapshotId": "f10ec392b3c14a9d51125bffa6daf81335a68294"
+      }
+    ]
+  }
+}
