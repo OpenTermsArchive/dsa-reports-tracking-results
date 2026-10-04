@@ -1,0 +1,15 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-10-04T04:04:53.544Z",
+    "serviceName": "Pinterest",
+    "sourceDocuments": [
+      {
+        "id": "sites-default-files-dsa-2024-Pinterest-DSA-RIsk-Assessment-and-Mitigation-Report",
+        "fetch": "https://help.pinterest.com/sites/default/files/dsa/2024-Pinterest-DSA-RIsk-Assessment-and-Mitigation-Report.pdf",
+        "mimeType": "application/pdf",
+        "snapshotId": "8b46a7b17f04455e73cd9c776d03e62f4090ca96"
+      }
+    ]
+  }
+}
