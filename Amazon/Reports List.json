@@ -1,0 +1,16 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-10-04T04:00:22.156Z",
+    "serviceName": "Amazon",
+    "sourceDocuments": [
+      {
+        "id": "resources-digital-services-act-dsa",
+        "fetch": "https://trustworthyshopping.aboutamazon.com/resources/digital-services-act-dsa",
+        "select": "main",
+        "mimeType": "text/html",
+        "snapshotId": "22687a61a08db44385fd35e8f08bf2d8f1cfef06"
+      }
+    ]
+  }
+}
