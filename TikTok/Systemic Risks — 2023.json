@@ -1,0 +1,15 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-10-04T04:06:54.474Z",
+    "serviceName": "TikTok",
+    "sourceDocuments": [
+      {
+        "id": "obj-eden-va2-zayvwlY_fjulyhwzuhy[-ljhwZthlaukjlkulzlp-DSA_H2_2024-TikTok-DSA-Risk-Assessment-Report-2023",
+        "fetch": "https://sf16-va.tiktokcdn.com/obj/eden-va2/zayvwlY_fjulyhwzuhy[/ljhwZthlaukjlkulzlp/DSA_H2_2024/TikTok-DSA-Risk-Assessment-Report-2023.pdf",
+        "mimeType": "application/pdf",
+        "snapshotId": "afefdf6715f2df86a0173dc2c4d6951f6724b540"
+      }
+    ]
+  }
+}
