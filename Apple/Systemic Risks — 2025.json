@@ -1,0 +1,15 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-10-04T04:00:53.855Z",
+    "serviceName": "Apple",
+    "sourceDocuments": [
+      {
+        "id": "legal-dsa-20251119_app-store_risk-assessment-report_non-confidential",
+        "fetch": "https://www.apple.com/legal/dsa/20251119_app-store_risk-assessment-report_non-confidential.pdf",
+        "mimeType": "application/pdf",
+        "snapshotId": "374c762db2477b960c91da6e51162dbc29fe7f88"
+      }
+    ]
+  }
+}
