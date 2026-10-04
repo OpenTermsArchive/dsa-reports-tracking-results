@@ -1,0 +1,15 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-10-04T04:01:42.627Z",
+    "serviceName": "Booking.com",
+    "sourceDocuments": [
+      {
+        "id": "data-mobile-b1a2d639-1cba-487b-9f26-c6c287bd2f5d",
+        "fetch": "https://r-xx.bstatic.com/data/mobile/b1a2d639-1cba-487b-9f26-c6c287bd2f5d.pdf",
+        "mimeType": "application/pdf",
+        "snapshotId": "d774d43dd8d4d9ef2cfb6337617e1625f759ffab"
+      }
+    ]
+  }
+}
