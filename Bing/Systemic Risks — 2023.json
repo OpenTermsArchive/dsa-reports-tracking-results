@@ -1,0 +1,15 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-10-04T04:01:02.727Z",
+    "serviceName": "Bing",
+    "sourceDocuments": [
+      {
+        "id": "is-content-microsoftcorp-microsoft-final-en-us-microsoft-brand-documents-Microsoft Bing DSA Systemic Risk Assessment Report - August 2023",
+        "fetch": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/Microsoft%20Bing%20DSA%20Systemic%20Risk%20Assessment%20Report%20-%20August%202023.pdf",
+        "mimeType": "application/pdf",
+        "snapshotId": "d59e29a9a0bdd135ce80590c834fb138d326937a"
+      }
+    ]
+  }
+}
