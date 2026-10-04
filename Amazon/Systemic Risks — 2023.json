@@ -1,0 +1,15 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-10-04T04:00:26.831Z",
+    "serviceName": "Amazon",
+    "sourceDocuments": [
+      {
+        "id": "eu-dsa-risk-assessment-report-amazon-2023",
+        "fetch": "https://trustworthyshopping.aboutamazon.com/eu-dsa-risk-assessment-report-amazon-2023#pdf",
+        "mimeType": "application/pdf",
+        "snapshotId": "e3c1541e4ad4720ca74fbdbc13cc562700677146"
+      }
+    ]
+  }
+}
