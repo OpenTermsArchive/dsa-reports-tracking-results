@@ -1,0 +1,17 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-10-04T04:02:43.632Z",
+    "serviceName": "Google Play",
+    "sourceDocuments": [
+      {
+        "id": "",
+        "fetch": "https://transparencyreport.google.com/",
+        "select": "#report-155",
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "1b9dd0f7926816c4222fa0e1396ffc3ad71daec7"
+      }
+    ]
+  }
+}
