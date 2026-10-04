@@ -1,0 +1,15 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-10-04T04:07:27.341Z",
+    "serviceName": "X",
+    "sourceDocuments": [
+      {
+        "id": "content-dam-transparency-twitter-dsa-dsa-sra-dsa-sra-2023-TIUC-DSA-SRA-Report-2023",
+        "fetch": "https://transparency.x.com/content/dam/transparency-twitter/dsa/dsa-sra/dsa-sra-2023/TIUC-DSA-SRA-Report-2023.pdf",
+        "mimeType": "application/pdf",
+        "snapshotId": "9fba8fbe3473a04e64dedcd2c53394a5ffba6792"
+      }
+    ]
+  }
+}
