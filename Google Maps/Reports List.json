@@ -1,0 +1,17 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-10-04T04:02:06.193Z",
+    "serviceName": "Google Maps",
+    "sourceDocuments": [
+      {
+        "id": "",
+        "fetch": "https://transparencyreport.google.com/",
+        "select": "#report-155",
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "8032d0625de2d8fc4eb7086b14e566c713ffe48c"
+      }
+    ]
+  }
+}
