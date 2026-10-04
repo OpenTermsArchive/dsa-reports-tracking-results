@@ -1,0 +1,17 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-10-04T04:06:33.119Z",
+    "serviceName": "Temu",
+    "sourceDocuments": [
+      {
+        "id": "transparency-center-reports",
+        "fetch": "https://www.temu.com/transparency-center-reports.html",
+        "select": "[role=\"main\"]",
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "b3dc9a907a2ffee6eee458a42149f422ada0e92d"
+      }
+    ]
+  }
+}
