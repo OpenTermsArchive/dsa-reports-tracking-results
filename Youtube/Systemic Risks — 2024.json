@@ -1,0 +1,15 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-10-04T04:09:09.191Z",
+    "serviceName": "Youtube",
+    "sourceDocuments": [
+      {
+        "id": "transparencyreport-report-downloads-dsa-risk-assessment_2024-8-28_2024-8-28_en_v1",
+        "fetch": "https://storage.googleapis.com/transparencyreport/report-downloads/dsa-risk-assessment_2024-8-28_2024-8-28_en_v1.pdf",
+        "mimeType": "application/pdf",
+        "snapshotId": "cdcd2505696fa01335ed53adb259f0662ea98551"
+      }
+    ]
+  }
+}
