@@ -1,0 +1,15 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-10-04T04:04:39.661Z",
+    "serviceName": "LinkedIn",
+    "sourceDocuments": [
+      {
+        "id": "content-dam-help-tns-en-LinkedIn-2022-2023-DSA-Systemic-Risk-Assessment-Report",
+        "fetch": "https://content.linkedin.com/content/dam/help/tns/en/LinkedIn-2022-2023-DSA-Systemic-Risk-Assessment-Report.pdf",
+        "mimeType": "application/pdf",
+        "snapshotId": "630ffd56bc8e3e0695d0de815024c04d560d1e38"
+      }
+    ]
+  }
+}
