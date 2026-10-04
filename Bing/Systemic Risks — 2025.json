@@ -1,0 +1,15 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-10-04T04:01:27.384Z",
+    "serviceName": "Bing",
+    "sourceDocuments": [
+      {
+        "id": "is-content-microsoftcorp-microsoft-bade-documents-products-and-services-en-us-digitalsafety-August-2025-Microsoft-Bing-Systemic-Risk-Assessment-Report-EU-Digital-Services-Act",
+        "fetch": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/bade/documents/products-and-services/en-us/digitalsafety/August-2025-Microsoft-Bing-Systemic-Risk-Assessment-Report-EU-Digital-Services-Act.pdf",
+        "mimeType": "application/pdf",
+        "snapshotId": "6bdb66e2029753afc7898991b0f630d52dbb3c3b"
+      }
+    ]
+  }
+}
