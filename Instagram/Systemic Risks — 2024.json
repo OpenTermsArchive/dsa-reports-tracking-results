@@ -1,0 +1,15 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-10-04T04:04:35.959Z",
+    "serviceName": "Instagram",
+    "sourceDocuments": [
+      {
+        "id": "sr-dsa-sra_results_report-2024-instagram",
+        "fetch": "https://transparency.meta.com/sr/dsa-sra_results_report-2024-instagram#pdf",
+        "mimeType": "application/pdf",
+        "snapshotId": "bbe2cb2499334f0810531fb870c10657b1c0aed8"
+      }
+    ]
+  }
+}
