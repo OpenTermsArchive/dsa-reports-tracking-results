@@ -1,0 +1,15 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-10-04T04:07:11.779Z",
+    "serviceName": "TikTok",
+    "sourceDocuments": [
+      {
+        "id": "obj-eden-va2-zayvwlY_fjulyhwzuhy[-ljhwZthlaukjlkulzlp-DSA-DSARiskAssessmentReport-TikTokTechnologyLimited-2025",
+        "fetch": "https://sf16-va.tiktokcdn.com/obj/eden-va2/zayvwlY_fjulyhwzuhy[/ljhwZthlaukjlkulzlp/DSA/DSARiskAssessmentReport-TikTokTechnologyLimited-2025.pdf",
+        "mimeType": "application/pdf",
+        "snapshotId": "b1819eaa882c62707d95f69079bfbf8fd22fdeef"
+      }
+    ]
+  }
+}
