@@ -1,0 +1,15 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-10-04T04:08:21.376Z",
+    "serviceName": "XNXX",
+    "sourceDocuments": [
+      {
+        "id": "transparency-XNXX Risk Assessment Report 2024",
+        "fetch": "https://public-assets.xnxx-cdn.com/transparency/XNXX%20Risk%20Assessment%20Report%202024.pdf",
+        "mimeType": "application/pdf",
+        "snapshotId": "c9280a6dc4382ff60919259e4d9749f37d2689a0"
+      }
+    ]
+  }
+}
