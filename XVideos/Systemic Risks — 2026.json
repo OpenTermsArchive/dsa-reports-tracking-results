@@ -1,0 +1,15 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-10-04T04:08:44.110Z",
+    "serviceName": "XVideos",
+    "sourceDocuments": [
+      {
+        "id": "transparency-WGCZ_Risk_Assessment_Report_2026",
+        "fetch": "https://public-assets.xvideos-cdn.com/transparency/WGCZ_Risk_Assessment_Report_2026.pdf",
+        "mimeType": "application/pdf",
+        "snapshotId": "643fda68a120da087d24fa2cbe7ae8b8585e5f21"
+      }
+    ]
+  }
+}
