@@ -1,0 +1,27 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-10-04T04:07:12.901Z",
+    "serviceName": "WhatsApp",
+    "sourceDocuments": [
+      {
+        "id": "legal-transparencyreports",
+        "fetch": "https://www.whatsapp.com/legal/transparencyreports",
+        "select": "#content-wrapper",
+        "filter": [
+          {
+            "removeQueryParams": [
+              "_nc_gid",
+              "oh",
+              "_nc_ohc",
+              "_nc_oc",
+              "oe"
+            ]
+          }
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "e70c192414323e89962929c415e48d2fa2d25404"
+      }
+    ]
+  }
+}
