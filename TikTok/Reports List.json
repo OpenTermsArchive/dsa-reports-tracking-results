@@ -1,0 +1,17 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-10-04T04:06:44.721Z",
+    "serviceName": "TikTok",
+    "sourceDocuments": [
+      {
+        "id": "transparency-en-dsa-transparency",
+        "fetch": "https://www.tiktok.com/transparency/en/dsa-transparency",
+        "select": "#dsa-transparency-richText-01",
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "4044f66cbc66aeb55447db56c66882332e9d482d"
+      }
+    ]
+  }
+}
