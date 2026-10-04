@@ -1,0 +1,15 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-10-04T04:03:36.544Z",
+    "serviceName": "Google Search",
+    "sourceDocuments": [
+      {
+        "id": "transparencyreport-report-downloads-dsa-risk-assessment_2024-8-28_2024-8-28_en_v1",
+        "fetch": "https://storage.googleapis.com/transparencyreport/report-downloads/dsa-risk-assessment_2024-8-28_2024-8-28_en_v1.pdf",
+        "mimeType": "application/pdf",
+        "snapshotId": "b4d5581532b7f0084966083e324d222ee7eb5a5d"
+      }
+    ]
+  }
+}
