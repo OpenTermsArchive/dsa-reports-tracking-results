@@ -1,0 +1,15 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-10-04T04:02:37.536Z",
+    "serviceName": "Google Maps",
+    "sourceDocuments": [
+      {
+        "id": "transparencyreport-report-downloads-dsa-risk-assessment_2025-8-28_2025-8-28_en_v1",
+        "fetch": "https://storage.googleapis.com/transparencyreport/report-downloads/dsa-risk-assessment_2025-8-28_2025-8-28_en_v1.pdf",
+        "mimeType": "application/pdf",
+        "snapshotId": "3d410c5474bb0ee474d13d2ba525804501bd2c73"
+      }
+    ]
+  }
+}
