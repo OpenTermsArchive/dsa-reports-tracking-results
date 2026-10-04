@@ -1,0 +1,15 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-10-04T04:06:40.997Z",
+    "serviceName": "Temu",
+    "sourceDocuments": [
+      {
+        "id": "legal-report-20195053bec-84b7b92528bcbfe57a0c1e438f58f99c",
+        "fetch": "https://dl.kwcdn.com/legal-report/20195053bec/84b7b92528bcbfe57a0c1e438f58f99c.pdf",
+        "mimeType": "application/pdf",
+        "snapshotId": "230c13709159500360b6fc7a09cf1e1e8a2aa5d2"
+      }
+    ]
+  }
+}
