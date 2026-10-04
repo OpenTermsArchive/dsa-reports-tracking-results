@@ -1,0 +1,16 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-10-04T04:00:35.903Z",
+    "serviceName": "Apple",
+    "sourceDocuments": [
+      {
+        "id": "legal-dsa",
+        "fetch": "https://www.apple.com/legal/dsa/",
+        "select": "[role=\"main\"]",
+        "mimeType": "text/html",
+        "snapshotId": "c7fbb631507058e6a48096f5ec49a2d91f87ceac"
+      }
+    ]
+  }
+}
