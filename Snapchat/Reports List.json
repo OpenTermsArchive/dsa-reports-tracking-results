@@ -1,0 +1,16 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-10-04T04:05:25.232Z",
+    "serviceName": "Snapchat",
+    "sourceDocuments": [
+      {
+        "id": "privacy-transparency-european-union-h1-2024",
+        "fetch": "https://values.snap.com/privacy/transparency/european-union-h1-2024",
+        "select": ".mwp-page",
+        "mimeType": "text/html",
+        "snapshotId": "df5e14bda914ff37e311dd2d86e7feda7e8e59da"
+      }
+    ]
+  }
+}
