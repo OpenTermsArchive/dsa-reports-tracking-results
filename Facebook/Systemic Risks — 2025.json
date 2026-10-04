@@ -1,0 +1,18 @@
+{
+  "status": "failed",
+  "event": {
+    "date": "2026-10-04T04:09:28.474Z",
+    "serviceName": "Facebook",
+    "sourceDocuments": [
+      {
+        "id": "m1-v-t0.84174-6-An_4ZmmuvtZDdTPTnteN1A6nQkJNs31uKukzSrgflCIZHDeAjVQueAfz3j_wRDMaomSTuF7escGwFC2rshGaKzL5ReBjJtmzkRRgUH5wIV7wbqqR9C-8MxdijOmPCKRL6msYoAI",
+        "fetch": "https://scontent.flyn1-1.fna.fbcdn.net/m1/v/t0.84174-6/An_4ZmmuvtZDdTPTnteN1A6nQkJNs31uKukzSrgflCIZHDeAjVQueAfz3j_wRDMaomSTuF7escGwFC2rshGaKzL5ReBjJtmzkRRgUH5wIV7wbqqR9C-8MxdijOmPCKRL6msYoAI?_nc_gid=QAut1O1izJ9OebxgGgBIrg&_nc_oc=Adr7hCCFE0yrPgh2WiTsiCncYFFKyyEEjxKFCY5r0_cJwGk6hSYKwuAGHn4ck6Kne9PijJPZ-IATFl5DXtmogzq-&ccb=10-5&oh=00_Af-gtqAEkdz2GgP3n5IPYZ629uRjqkzQ16Q-BdvaJBXAoQ&oe=6A3C437C&_nc_sid=68f2c3#pdf",
+        "mimeType": null,
+        "snapshotId": null
+      }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Received HTTP code 403 when trying to fetch 'https://scontent.flyn1-1.fna.fbcdn.net/m1/v/t0.84174-6/An_4ZmmuvtZDdTPTnteN1A6nQkJNs31uKukzSrgflCIZHDeAjVQueAfz3j_wRDMaomSTuF7escGwFC2rshGaKzL5ReBjJtmzkRRgUH5wIV7wbqqR9C-8MxdijOmPCKRL6msYoAI?_nc_gid=QAut1O1izJ9OebxgGgBIrg&_nc_oc=Adr7hCCFE0yrPgh2WiTsiCncYFFKyyEEjxKFCY5r0_cJwGk6hSYKwuAGHn4ck6Kne9PijJPZ-IATFl5DXtmogzq-&ccb=10-5&oh=00_Af-gtqAEkdz2GgP3n5IPYZ629uRjqkzQ16Q-BdvaJBXAoQ&oe=6A3C437C&_nc_sid=68f2c3#pdf'"
+    ]
+  }
+}
