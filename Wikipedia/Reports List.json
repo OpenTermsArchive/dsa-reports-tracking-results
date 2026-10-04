@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-10-04T04:07:14.270Z",
+    "serviceName": "Wikipedia",
+    "sourceDocuments": [
+      {
+        "id": "wiki-Legal_Wikimedia_Foundation_EU_Compliance-DSA_Publication_Archive",
+        "fetch": "https://foundation.wikimedia.org/wiki/Legal:Wikimedia_Foundation_EU_Compliance/DSA_Publication_Archive",
+        "select": {
+          "startAfter": ".mw-pt-languages",
+          "endBefore": "#catlinks"
+        },
+        "mimeType": "text/html",
+        "snapshotId": "98fa6c8212434164ad0bdb1c95d5ebe7cba831ac"
+      }
+    ]
+  }
+}
