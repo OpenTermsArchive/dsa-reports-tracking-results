@@ -1,0 +1,16 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-10-04T04:04:37.775Z",
+    "serviceName": "LinkedIn",
+    "sourceDocuments": [
+      {
+        "id": "help-linkedin-answer-a1678508",
+        "fetch": "https://www.linkedin.com/help/linkedin/answer/a1678508",
+        "select": ".article-content__rich-text",
+        "mimeType": "text/html",
+        "snapshotId": "dc8fc5931219fb57c7307f5fe35f712d525e3d26"
+      }
+    ]
+  }
+}
