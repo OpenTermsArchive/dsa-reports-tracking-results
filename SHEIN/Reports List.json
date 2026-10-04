@@ -1,0 +1,17 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-10-04T04:05:16.614Z",
+    "serviceName": "SHEIN",
+    "sourceDocuments": [
+      {
+        "id": "digital-service-act-a-1994",
+        "fetch": "https://eur.shein.com/digital-service-act-a-1994.html",
+        "select": ".article-continer",
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "1f4a595de10aa656df32b5768d19000b851e8d3e"
+      }
+    ]
+  }
+}
