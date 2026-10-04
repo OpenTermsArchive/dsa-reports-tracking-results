@@ -1,0 +1,15 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-10-04T04:00:20.887Z",
+    "serviceName": "AliExpress",
+    "sourceDocuments": [
+      {
+        "id": "tpsservice-b1e5c47188c3d161d91de46033988a69",
+        "fetch": "https://files.alicdn.com/tpsservice/b1e5c47188c3d161d91de46033988a69.pdf",
+        "mimeType": "application/pdf",
+        "snapshotId": "8220e45c6a696de95fd0a053b5ae8e72db6ecf0d"
+      }
+    ]
+  }
+}
