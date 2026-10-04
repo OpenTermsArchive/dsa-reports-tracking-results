@@ -1,0 +1,15 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-10-04T04:07:18.487Z",
+    "serviceName": "Wikipedia",
+    "sourceDocuments": [
+      {
+        "id": "wikipedia-foundation-a-a6-Wikipedia_DSA_SRAM_submission_cover_note_09Sept2025",
+        "fetch": "https://upload.wikimedia.org/wikipedia/foundation/a/a6/Wikipedia_DSA_SRAM_submission_cover_note_09Sept2025.pdf",
+        "mimeType": "application/pdf",
+        "snapshotId": "60a690957489ba4a9c31bd2af54cb026a9b4b014"
+      }
+    ]
+  }
+}
