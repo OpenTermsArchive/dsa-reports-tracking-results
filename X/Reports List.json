@@ -1,0 +1,18 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-10-04T04:07:21.712Z",
+    "serviceName": "X",
+    "sourceDocuments": [
+      {
+        "id": "en-reports-dsa-risk-assessment-report",
+        "fetch": "https://transparency.x.com/en/reports/dsa-risk-assessment-report",
+        "select": "#main",
+        "remove": "[aria-labelledby^=\"notice-floating\"]",
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "cfec4d2fed6d257fdc40990cf53368d0f94a6cab"
+      }
+    ]
+  }
+}
