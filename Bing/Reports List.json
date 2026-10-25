@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-10-18T04:06:19.563Z",
+    "date": "2026-10-25T04:00:41.937Z",
     "serviceName": "Bing",
     "sourceDocuments": [
       {
@@ -9,13 +9,8 @@
         "fetch": "https://www.microsoft.com/en-us/DigitalSafety/transparency-reports/jurisdictional-reports",
         "select": "main",
         "mimeType": "text/html",
-        "snapshotId": "ce112675b39d00cb4eb801ddc4d4724b7d71f64e"
+        "snapshotId": "3da2ec9d4ef4c57fdb209ea3472baeb502e69508"
       }
-    ],
-    "transientError": {
-      "reasons": [
-        "[fetch] Fetch failed: Received HTTP code 403 when trying to fetch 'https://www.microsoft.com/en-us/DigitalSafety/transparency-reports/jurisdictional-reports'"
-      ]
-    }
+    ]
   }
 }
