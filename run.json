@@ -1,12 +1,12 @@
 {
-  "runId": "ota-run-1d91d29f-d571-4700-b132-d9c281da38d0",
+  "runId": "ota-run-f005e192-6a65-49a5-bf13-8bf17b536dd0",
   "collectionId": "dsa-reports",
   "schedule": "0 4 * * 0",
   "lastRun": {
-    "startDate": "2026-10-25T04:00:00.836Z",
-    "endDate": "2026-10-25T04:06:36.658Z",
+    "startDate": "2026-11-01T04:00:00.835Z",
+    "endDate": null,
     "engineVersion": "16.3.0",
-    "status": "completed"
+    "status": "in_progress"
   },
   "declarations": {
     "commit": "ff81a8e6b5b8d3db4f6c2a484b77196871bf2750",
@@ -14,11 +14,11 @@
     "terms": 85
   },
   "tracked": {
-    "ok": 82,
-    "failed": 3
+    "ok": 0,
+    "failed": 0
   },
   "coverage": {
-    "processed": 85,
+    "processed": 0,
     "skipped": []
   },
   "transitions": {
